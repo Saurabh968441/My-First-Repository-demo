@@ -1,2 +1,2 @@
-# My-First-Repository-demo
+delta demo
 This is a demo Git &amp; Github class.
